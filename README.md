@@ -1,4 +1,4 @@
-# expenses_Management
+# expenses_Management(expense calculator)
 You work at a fintech startup that helps housemates calculate and manage their expenses.
 Your task is to build this expense calculator.
 
@@ -15,7 +15,7 @@ for successfull move in give an successfull message in response along with suita
 and if house is already full with maximum member give an error message of Housefull in response along with suitable http status code.
 
 # Example
-member 1 successfully move in.  
+member 1 successfully move in.
 member 2 successfully move in.
 member 3 successfully move in.
 member 4 move in failed house is already full.
